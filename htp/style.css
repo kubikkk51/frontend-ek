@@ -1,0 +1,32 @@
+
+.wrapher {
+    width: 800px;
+    background-color: greenyellow;
+    display: flex;
+    margin: 0 auto;
+}
+
+.left {
+    width: 300px;
+    text-align: center;
+    background-color: #c23434;
+}
+
+.me {
+    width: 200px;
+    border-radius: 55%;
+}
+ li {
+    list-style-type: none;
+}
+
+.ph {
+    width: 13px;
+}
+.right {
+    width: 500px;
+    text-align: center;
+    background-color: #6db56f;
+}
+
+
